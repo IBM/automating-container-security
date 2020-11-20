@@ -22,9 +22,15 @@ You will now learn what the 10 steps are. Know that in general, steps (1-4) are 
 
 # End-to-End Vulnerability and Compliance Management
 
-End-to-End vulnerability management should follow the Assess, Prioritize, Act and Improve workflow as shown below:
+End-to-End vulnerability management should follow the Assess, Prioritize, Act and Improve workflow.  Note what is done at each stage:
 
-<img src="./images/end-to-end-vulnerablity.png" width="100%" height="100%" alt="Component Model"  class="inline"/>
+* Assess: identify assets, scan & check, report
+
+* Priortize: triage & filter, evaluate severit, assign
+
+* Act: respond & mitigate, accept risks, virtual patch
+
+* Improve: upgrate, rescane & compare
 
 
 ## Step 1: Build-Phase Vulnerability Scan Triggers
